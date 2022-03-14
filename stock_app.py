@@ -1,5 +1,5 @@
 import pandas as pd
-import yfinance as   yf           #株価取得のライブラリ
+import yfinance as yf           #株価取得のライブラリ
 import altair as alt              #可視化ライブラリ
 import streamlit as st
 
